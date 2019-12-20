@@ -2,9 +2,9 @@
 ## So Long and Thanks for All the Fish: Listening to dolphins using Python and the scientific stack.
 
 # Description
-Dolphins are incredible animals who use audio for echolocation as well as communication. Come on a tour with me of building a data pipeline and analysis system for 10's of terabytes of audio data from under the Gulf of Mexico. The data engineering in nearly pure Python, the visualizations using matplotlib and Bokeh, and noise cleaning and analysis using NumPy, SciPy, and PyWavelets; all with a view into distributed systems. As well as a story of convincing an established team of scientists to move away from MatLab and to start using open source technology.
+Dolphins are incredible animals who use audio for echolocation as well as communication. Come on a tour of building a data pipeline and analysis system for 10's of terabytes of audio data from under the Gulf of Mexico. The data engineering is done in nearly pure Python, the visualizations using matplotlib and Bokeh, and noise cleaning and analysis using NumPy, SciPy, and PyWavelets. Sclaling these past small data sizes started to break down, this is where Dask enters to enable distributed systems scaling to small and large clusters. Hear about all of this as well as a story of convincing an established team of scientists to move away from MatLab and to start using open source technology.
 
-Ever been curious about how to compute a spectrogram? Or want to learn about some modern ways of building distributed computational systems? This talk will yield many tips and tricks to take back to your team or project. See the progression of using single Python scripts on small data to using Jupyter Notebooks for better presentation, all the way to scaling up to clusters of computers using Dask.
+This talk will yield many interesting tips and tricks to take back to your team or project. Ever been curious about how to compute a spectrogram? Or want to learn about some modern ways of building distributed computational systems? See the progression of using single Python scripts on small data to using Jupyter Notebooks for better presentation, all the way to scaling up to clusters of computers using Dask.
 
 # Outline
 - 0m:5m

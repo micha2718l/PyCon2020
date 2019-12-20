@@ -8,7 +8,7 @@ Ever been curious about how to compute a spectrogram? Or want to learn about som
 
 # Outline
 - 0m:5m
-    - The talk will start with a brief overview of how the project came to be and how our team obtained our data. Also covered is description of the state of the project when I joined, which included a lot of legacy MatLab code.
+    - The talk will start with a brief overview of how the project came to be and how our team obtained our data. Also covered is a description of the state of the project when I joined, which included a lot of legacy MatLab code.
 - 5m:10m
     - Moving beyond having data to work with, the next steps involved getting easy access to the data for myself as well as the rest of the team. The data is in a specific format and Python code was written to parse these files, and then some routines to work with it were added. This resulted in a Python package which now resides on PyPi. The experience of packaging and uploading for use with pip was enlightening.
 - 10m:15m

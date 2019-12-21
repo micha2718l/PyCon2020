@@ -21,6 +21,6 @@ This talk will yield many interesting tips and tricks to take back to your team 
     - A conclusion will be made about the power of using open source scientific software, Python/NumPy/SciPy in particular. As well as a call to action for anyone interested in helping protect the creatures we share this world with; and a reassurance that these ideas and techniques are not beyond anyone with a basic knowledge of programming, or at least a desire to learn.
   
 # Audience
-The intended audience for this talk is first and foremost anyone interested in the wonderful world of dolphins and the conversations they are having. From a technical perspective, those at an intermediate level will learn the most details of how to work with large amounts of audio data, specifically in the realm of spectral analysis. From a Python perspective there should be ample tips and tricks that anyone from a beginner to expert should be able to pick up something useful.
+The intended audience for this talk is first and foremost anyone interested in the wonderful world of dolphins and the conversations they are having. From a technical perspective, those at an intermediate level will learn the most details of how to work with large amounts of audio data, specifically in the realm of spectral analysis. From a Python perspective there should be ample tips and tricks that anyone from beginner to expert should be able to pick up something useful.
 
 # Additional Notes
